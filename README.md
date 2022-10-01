@@ -1,2 +1,2 @@
 # HowToMakeAPizza
-Pruba de Git y el ejercicio.
+Prueba de Git y el ejercicio.
